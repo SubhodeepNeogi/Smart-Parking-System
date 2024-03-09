@@ -30,8 +30,11 @@ status in a user-friendly manner.
 # Target audience:
 Parking authorities
 i. Vehicle owners
+
 ii.  Municipalities and city governments
+
 iii.  Businesses located in high-traffic areas
+
 iv.  Tourist destinations or event venues
 # Uniqueness:
 i.  Check the status of parking slots from anywhere by using smart phone.
